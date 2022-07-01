@@ -1,0 +1,24 @@
+.reddish-pink-bg {
+    background-color: #FF6580;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans, sans-serif;
+}
+
+#numberTwo {
+    font-size: 36px;
+    color: blue;
+}
+
+.reddish-pink-bg.numberThree {
+font-size: 24px;
+}
+
+/** **The fourth element**:
+ a light green background, a font size of 24px, and bold
+ */
+
+
+#numberFour {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
