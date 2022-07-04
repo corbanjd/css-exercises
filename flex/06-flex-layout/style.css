@@ -14,10 +14,11 @@
 }
 
 body {
-  height: 100vh;
+ 
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+
 }
 
 img {
@@ -31,7 +32,7 @@ img {
   display: flex;
   justify-content: center;
   align-self: center;
-  margin-top: 25vh;
+  
 
 }
 
@@ -54,6 +55,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 12px;
+  margin: 6px;
 }
 
 input {
@@ -88,12 +91,21 @@ a {
 }
 
 .content {
-  min-height: 65vh;
+margin-top: 20vh;
   align-items: center;
 
 }
 
 
+.footer {
+ 
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(39, 39, 39, 0.998);
+  
+}
 
 
 
